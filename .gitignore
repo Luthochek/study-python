@@ -1,3 +1,6 @@
+# Игнорировать папку .vs (создаётся Visual Studio)
+.vs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
